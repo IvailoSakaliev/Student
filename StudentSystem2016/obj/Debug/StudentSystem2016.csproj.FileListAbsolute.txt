@@ -1,0 +1,322 @@
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\csc.exe
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\vbc.exe
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.dll.config
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.pdb
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Antlr3.Runtime.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\BissnessLogic.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Web.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Newtonsoft.Json.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Helpers.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Mvc.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Optimization.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Razor.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\WebGrease.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\BissnessLogic.pdb
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.pdb
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Web.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Helpers.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Mvc.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Optimization.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Razor.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Antlr3.Runtime.pdb
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Newtonsoft.Json.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.pdb
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\csc.exe
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\System.Collections.Immutable.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\System.Reflection.Metadata.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\vbc.exe
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\VBCSCompiler.exe
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\VBCSCompiler.exe.config
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.dll.config
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.pdb
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Antlr3.Runtime.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\BissnessLogic.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Agent.Intercept.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.DependencyCollector.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Web.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.WindowsServer.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.ApplicationInsights.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.Web.Infrastructure.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Newtonsoft.Json.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Helpers.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Mvc.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Optimization.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Razor.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Deployment.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Razor.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\WebGrease.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\BissnessLogic.pdb
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.pdb
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.DependencyCollector.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Web.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.WindowsServer.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.ApplicationInsights.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Helpers.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Mvc.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Optimization.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Razor.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Deployment.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Razor.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Antlr3.Runtime.pdb
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Newtonsoft.Json.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.csprojResolveAssemblyReference.cache
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.pdb
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.csprojResolveAssemblyReference.cache
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.pdb
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\csc.exe
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\System.Collections.Immutable.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\vbc.exe
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\VBCSCompiler.exe
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\VBCSCompiler.exe.config
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.dll.config
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.pdb
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Antlr3.Runtime.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\BissnessLogic.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Web.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.WindowsServer.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.ApplicationInsights.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.Web.Infrastructure.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Newtonsoft.Json.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Helpers.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Mvc.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Optimization.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Razor.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Deployment.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Razor.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\WebGrease.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\BissnessLogic.pdb
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.pdb
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Web.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.WindowsServer.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.ApplicationInsights.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Helpers.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Mvc.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Optimization.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Razor.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Deployment.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Razor.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Antlr3.Runtime.pdb
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Newtonsoft.Json.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\csc.exe
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\vbc.exe
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.dll.config
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Antlr3.Runtime.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Web.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Newtonsoft.Json.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Helpers.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Mvc.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Optimization.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Razor.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\WebGrease.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Web.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Helpers.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Mvc.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Optimization.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Razor.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Antlr3.Runtime.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Newtonsoft.Json.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.SqlServer.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.SqlServer.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.AuthenticationServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.GenericServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.LectureServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.ScolarshipServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.SingInServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.SpecilatyServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.StudentServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.SubjectServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.AuthenticationServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.GenericServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.LectureServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.ScolarshipServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.SingInServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.SpecilatyServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.StudentServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.SubjectServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SendGrid.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.EmailServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SS.EmailServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SendGrid.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SendGrid.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.dll.config
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.csprojAssemblyReference.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.csproj.CopyComplete
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\csc.exe
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\vbc.exe
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Antlr3.Runtime.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.SqlServer.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Web.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Newtonsoft.Json.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SendGrid.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Helpers.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Mvc.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Optimization.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Razor.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\WebGrease.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\DataAcsess.dll.config
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\EntityFramework.SqlServer.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.Web.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Newtonsoft.Json.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SendGrid.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\SendGrid.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Helpers.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Mvc.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Optimization.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.Razor.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\Antlr3.Runtime.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.csprojAssemblyReference.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.csproj.CopyComplete
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\obj\Debug\StudentSystem2016.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem2016.dll.config
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem.Servise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem2016\bin\StudentSystem.Servise.pdb

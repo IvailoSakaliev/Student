@@ -1,0 +1,52 @@
+﻿
+
+<div class="navbar-collapse collapse" style="float:right">
+    <ul class="nav navbar-nav">
+
+        <li>
+            <div class="col-md-4 search">
+                <form action="../Product" method="post">
+                    <div class="col-md-9">
+                        <input class="form-control searchFiels" type="text" name="search" placeholder="Search ...." />
+                    </div>
+                    <div class="col-md-3">
+                        <button style="background-color:#f4ad42" class="form-control"><img src="~/images/search.png" alt="Search" /></button>
+                    </div>
+
+                </form>
+            </div>
+        </li>
+        @if( HttpContext.Current.Session["User_ID"] == "1")
+        {
+        <li>@Html.ActionLink("Admin", "Index", "Admin")</li>
+        }
+        <li>
+            <div class="circle"></div>
+
+            <a asp-controller="Order" asp-action="Orders"><img width="20px" src="~/images/shop.png" /></a>
+        </li>
+        <li class="drop_menu_search">
+            <img src="~/images/search.png" width="15px" alt="Search" onclick="VisibleSearch()" />
+
+
+        </li>
+        @{
+            if (HttpContext.Current.Session["User_ID"] == ""
+                || HttpContext.Current.Session["User_ID"] == null)
+            {
+                <li><a asp-area="" asp-controller="Login" asp-action="Registration">Registration</a></li>
+                <li><a asp-area="" asp-controller="Login" asp-action="Index">Login</a></li>
+
+            }
+            else
+            {
+
+                <li><a asp-controller="User" asp-action="Details">My Account</a></li>
+                <li><a asp-area="" asp-controller="Login" asp-action="LoggOut">Logout</a></li>
+
+
+            }
+        }
+
+    </ul>
+</div>

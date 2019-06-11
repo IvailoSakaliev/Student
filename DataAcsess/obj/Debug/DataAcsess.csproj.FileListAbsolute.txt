@@ -1,0 +1,69 @@
+C:\Users\Ivo\Desktop\PhoneBookEF\Solution1\DataAcsess\bin\Debug\DataAcsess.dll.config
+C:\Users\Ivo\Desktop\PhoneBookEF\Solution1\DataAcsess\bin\Debug\DataAcsess.dll
+C:\Users\Ivo\Desktop\PhoneBookEF\Solution1\DataAcsess\bin\Debug\DataAcsess.pdb
+C:\Users\Ivo\Desktop\PhoneBookEF\Solution1\DataAcsess\bin\Debug\EntityFramework.dll
+C:\Users\Ivo\Desktop\PhoneBookEF\Solution1\DataAcsess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivo\Desktop\PhoneBookEF\Solution1\DataAcsess\bin\Debug\EntityFramework.xml
+C:\Users\Ivo\Desktop\PhoneBookEF\Solution1\DataAcsess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivo\Desktop\PhoneBookEF\Solution1\DataAcsess\obj\Debug\DataAcsess.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Desktop\PhoneBookEF\Solution1\DataAcsess\obj\Debug\DataAcsess.dll
+C:\Users\Ivo\Desktop\PhoneBookEF\Solution1\DataAcsess\obj\Debug\DataAcsess.pdb
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.dll.config
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.pdb
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.dll
+C:\Users\Ivo\Desktop\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.pdb
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.dll.config
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.pdb
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.SqlServer.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.SqlServer.xml
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csprojResolveAssemblyReference.cache
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.dll
+E:\last\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.pdb
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.dll.config
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.pdb
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csprojResolveAssemblyReference.cache
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.dll
+E:\Project asp.net\StudentSystem_ASP_2016-master\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.dll.config
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.Migrations.initialMigrations.resources
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csproj.GenerateResource.Cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.Migrations.updateUser.resources
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csprojAssemblyReference.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_20162\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csproj.CopyComplete
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.dll.config
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\DataAcsess.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csproj.CopyComplete
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.Migrations.init.resources
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csproj.GenerateResource.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\DataAcsess\obj\Debug\DataAcsess.csprojAssemblyReference.cache

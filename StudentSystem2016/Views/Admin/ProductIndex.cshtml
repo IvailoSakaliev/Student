@@ -1,0 +1,20 @@
+﻿@model StudentSystem2016.VModels.Models.Products.ProducLIst
+@{
+    ViewBag.Title = "ProductIndex";
+    Layout = "~/Views/Admin/_admin.cshtml";
+}
+
+<h2>ProductIndex</h2>
+
+
+<h2>Products</h2>
+<a href="../Admin/Product">Add new Product</a>
+<div id="total">
+    <h3 id="price"></h3>
+</div>
+<div class="ProductListItem">
+    @Html.Partial("ListProducts")
+</div>
+<div style="text-align:right">
+    @Html.Partial("_adminPageVM")
+</div>

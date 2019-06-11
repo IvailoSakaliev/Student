@@ -1,0 +1,16 @@
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\SS.EvaluationServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\SS.EvaluationServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\DataAcsess.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\SS.GenericServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\EntityFramework.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\SS.EncriptServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\DataAcsess.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\DataAcsess.dll.config
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\SS.GenericServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\EntityFramework.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\bin\Debug\SS.EncriptServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\obj\Debug\SS.EvaluationServise.csprojAssemblyReference.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\obj\Debug\SS.EvaluationServise.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\obj\Debug\SS.EvaluationServise.csproj.CopyComplete
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\obj\Debug\SS.EvaluationServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EvaluationServise\obj\Debug\SS.EvaluationServise.pdb

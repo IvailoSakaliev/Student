@@ -1,0 +1,51 @@
+﻿@model StudentSystem2016.VModels.Models.Orders.OrderList
+@{
+    ViewData["Title"] = "AdminIndex";
+    Layout = "~/Views/Admin/_admin.cshtml";
+}
+
+<div class="row" style="padding:10px;">
+    <h2>Orders</h2>
+
+</div>
+
+
+
+
+
+
+<div class="row orders">
+    <div class="row headers">
+        <div class="col-md-2"> OrderNumber</div>
+        <div class="col-md-2"> Quantity</div>
+        <div class="col-md-2"> Date</div>
+        <div class="col-md-2"> Status</div>
+        <div class="col-md-2"> Total Price</div>
+        <div class="col-md-2"> Action</div>
+    </div>
+    <div class="row headers">
+        <div class="col-md-2">
+            <input type="text" onblur="GetOrdersByOrderNumber()" id="orderNum" />
+        </div>
+        <div class="col-md-2"> </div>
+        <div class="col-md-2">
+            <input type="text" onblur="GetOrdersByOrderDate()" id="orderDate" />
+        </div>
+        <div class="col-md-2"> </div>
+        <div class="col-md-2"> </div>
+        <div class="col-md-2"> </div>
+    </div>
+    <div id="mode" style="visibility:hidden">0</div>
+
+    <div class="listOrder">
+        @Html.Partial("ListOrders")
+    </div>
+
+</div>
+
+
+
+
+<div style="text-align:right">
+    @Html.Partial("_adminPageVM")
+</div>

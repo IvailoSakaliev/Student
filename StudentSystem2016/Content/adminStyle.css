@@ -1,0 +1,58 @@
+﻿
+body {
+    padding: 0px !important;
+}
+
+.table input[type="text"] {
+    width: 80%;
+    margin: 0px !important;
+}
+
+.table th {
+    width: 20px !important;
+    border-top: 0px !important;
+}
+
+.siteIMG {
+    display: inline-block
+}
+
+.navigation {
+    width: 100%;
+    background-color: black;
+    height: 1000px;
+    padding-top: 60px;
+}
+
+.navMenu {
+    list-style: none;
+}
+
+    .navMenu li {
+        padding: 7px;
+    }
+
+        .navMenu li a {
+            color: white;
+        }
+
+/*admin page*/
+.deleteImg {
+    position: relative;
+    right: 40px;
+    float: right;
+}
+
+    .deleteImg:hover {
+        cursor: pointer
+    }
+
+.siteIMG {
+    width: 200px;
+    height: 150px;
+    background-size: 100%
+}
+
+.navbar {
+    margin: 0xp !important;
+}

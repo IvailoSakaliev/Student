@@ -1,0 +1,11 @@
+﻿body {
+}
+#SucsessEnter_Notification
+{
+    padding:20px 40px;
+    border:2px solid green;
+    background-color:rgba(76, 255, 0, 0.5);
+    width:300px;
+    border-radius:10px;
+    margin-bottom:20px;
+}

@@ -1,0 +1,12 @@
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\bin\Debug\StudentSystem.Servise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\bin\Debug\StudentSystem.Servise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\obj\Debug\StudentSystem.Servise.csprojAssemblyReference.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\obj\Debug\StudentSystem.Servise.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\obj\Debug\StudentSystem.Servise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\obj\Debug\StudentSystem.Servise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\bin\Debug\DataAcsess.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\bin\Debug\EntityFramework.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\bin\Debug\DataAcsess.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\bin\Debug\DataAcsess.dll.config
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\bin\Debug\EntityFramework.xml
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\StudentSystem.Servise\obj\Debug\StudentSystem.Servise.csproj.CopyComplete

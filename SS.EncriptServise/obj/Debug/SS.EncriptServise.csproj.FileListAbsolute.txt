@@ -1,0 +1,6 @@
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EncriptServise\bin\Debug\SS.EncriptServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EncriptServise\bin\Debug\SS.EncriptServise.pdb
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EncriptServise\obj\Debug\SS.EncriptServise.csprojAssemblyReference.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EncriptServise\obj\Debug\SS.EncriptServise.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EncriptServise\obj\Debug\SS.EncriptServise.dll
+C:\Users\ivo\Source\Repos\StudentSystem_ASP_2016\StudentSystem_ASP_2016-master\SS.EncriptServise\obj\Debug\SS.EncriptServise.pdb
